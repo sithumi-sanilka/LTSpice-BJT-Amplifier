@@ -29,7 +29,7 @@ The circuit processes the incoming signal sequentially through three distinct st
 ### 3. Stage 3: Low-Pass Filter (LPF)
 *   **Type:** Passive RC Low-Pass Filter
 *   **Cutoff Frequency ($f_c$):** 12 kHz
-*   **Purpose:** Blocks high-frequency RF noise and high-pitched interference, smoothing out the final audio output waveform.
+*   **Purpose:** Blocks high-frequency RF noise and high-pitched interference, smoothing out the final audio output waveform
 
 ---
 
