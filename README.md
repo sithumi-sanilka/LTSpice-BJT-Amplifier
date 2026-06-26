@@ -34,7 +34,7 @@ The circuit processes the incoming signal sequentially through three distinct st
 ---
 
 ## Circuit Schematic
-![Circuit Schematic](schematic_screenshot.png)
+![Circuit Schematic](schematic_screenshot.png.png)
 
 ## Simulation & Results
-![Simulation Waveform](result.png)
+![Simulation Waveform](result.png.png)
