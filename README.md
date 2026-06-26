@@ -2,7 +2,7 @@
 A multi-stage amplifier circuit with active high-pass and low-pass filters designed in LTspice.
 
 ## Authors
-* **Sithumi** - [GitHub Profile Link](https://github.com/your-username) 
+* **Sithumi** - [GitHub Profile Link](https://github.com/sithumi-sanilka) 
 * **Ashan** - [GitHub Profile Link](https://github.com/xKingYT) 
 
 ## Project Overview
